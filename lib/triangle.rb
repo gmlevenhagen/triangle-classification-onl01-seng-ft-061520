@@ -32,7 +32,8 @@ end
       raise RangeError
     end
   end
-  
+end
+
 
 class RangeError < StandardError
 
