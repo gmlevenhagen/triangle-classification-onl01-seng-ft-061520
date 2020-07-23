@@ -29,7 +29,7 @@ end
         return :scalene
       end
     else
-      raise RangeError
+      return RangeError
     end
   end
 end
